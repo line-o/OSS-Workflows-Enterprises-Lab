@@ -1,11 +1,12 @@
 # Maturity Assessment?
 
- - <Insert notes here >
+ - proficient
 
 
 # OSPO - Strategy
 
-- <Insert notes here >
+- evolving FAQ
+
 - <Who are your potential stakeholders in your Enterprise?>
 
 
@@ -17,7 +18,12 @@
 
 # OSPO - Making the ROI Case
  
- - <Insert notes here >
+ + reach
+ + conversion
+ + savings
+ - legal risk (license)
+ - operational risk (deps)
+ 
  - <Think in terms of how launching an OSS, contributing or using could potentially benefit your Enterprise cost wise>
  
 
